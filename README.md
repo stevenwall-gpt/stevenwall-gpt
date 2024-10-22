@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Steven 
-- 👀 I’m interested in Football, Martial Arts
+- 👋 Hi, I’m Steven!
+- 👀 I’m interested in ⚽ Football, 🥊 Martial Arts.
 - 🌱 I’m currently learning Python, C, Webdesign
 - 📫 How to reach me ...
 - ⚡ Fun fact: ...
