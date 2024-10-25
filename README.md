@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steven!
 - 👀 I’m interested in ⚽ Football, 🥊 Martial Arts.
-- 🌱 I’m currently learning Python, C, Webdesign
+- 🌱 I’m currently learning Python, Java Webdesign
 - 📫 How to reach me ...
 - ⚡ Fun fact: ...
 
